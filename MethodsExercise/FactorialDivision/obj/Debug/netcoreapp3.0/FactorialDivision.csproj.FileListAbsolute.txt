@@ -1,0 +1,10 @@
+D:\Learning\C#FundamentalsPractics\MethodsExercise\FactorialDivision\bin\Debug\netcoreapp3.0\FactorialDivision.exe
+D:\Learning\C#FundamentalsPractics\MethodsExercise\FactorialDivision\bin\Debug\netcoreapp3.0\FactorialDivision.deps.json
+D:\Learning\C#FundamentalsPractics\MethodsExercise\FactorialDivision\bin\Debug\netcoreapp3.0\FactorialDivision.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\MethodsExercise\FactorialDivision\bin\Debug\netcoreapp3.0\FactorialDivision.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\MethodsExercise\FactorialDivision\bin\Debug\netcoreapp3.0\FactorialDivision.dll
+D:\Learning\C#FundamentalsPractics\MethodsExercise\FactorialDivision\bin\Debug\netcoreapp3.0\FactorialDivision.pdb
+D:\Learning\C#FundamentalsPractics\MethodsExercise\FactorialDivision\obj\Debug\netcoreapp3.0\FactorialDivision.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\MethodsExercise\FactorialDivision\obj\Debug\netcoreapp3.0\FactorialDivision.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\MethodsExercise\FactorialDivision\obj\Debug\netcoreapp3.0\FactorialDivision.dll
+D:\Learning\C#FundamentalsPractics\MethodsExercise\FactorialDivision\obj\Debug\netcoreapp3.0\FactorialDivision.pdb

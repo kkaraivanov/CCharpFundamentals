@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ArraysLab\CondenseArrayToNumber\bin\Debug\netcoreapp3.0\CondenseArrayToNumber.exe
+D:\Learning\C#FundamentalsPractics\ArraysLab\CondenseArrayToNumber\bin\Debug\netcoreapp3.0\CondenseArrayToNumber.deps.json
+D:\Learning\C#FundamentalsPractics\ArraysLab\CondenseArrayToNumber\bin\Debug\netcoreapp3.0\CondenseArrayToNumber.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ArraysLab\CondenseArrayToNumber\bin\Debug\netcoreapp3.0\CondenseArrayToNumber.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ArraysLab\CondenseArrayToNumber\bin\Debug\netcoreapp3.0\CondenseArrayToNumber.dll
+D:\Learning\C#FundamentalsPractics\ArraysLab\CondenseArrayToNumber\bin\Debug\netcoreapp3.0\CondenseArrayToNumber.pdb
+D:\Learning\C#FundamentalsPractics\ArraysLab\CondenseArrayToNumber\obj\Debug\netcoreapp3.0\CondenseArrayToNumber.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ArraysLab\CondenseArrayToNumber\obj\Debug\netcoreapp3.0\CondenseArrayToNumber.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ArraysLab\CondenseArrayToNumber\obj\Debug\netcoreapp3.0\CondenseArrayToNumber.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ArraysLab\CondenseArrayToNumber\obj\Debug\netcoreapp3.0\CondenseArrayToNumber.dll
+D:\Learning\C#FundamentalsPractics\ArraysLab\CondenseArrayToNumber\obj\Debug\netcoreapp3.0\CondenseArrayToNumber.pdb

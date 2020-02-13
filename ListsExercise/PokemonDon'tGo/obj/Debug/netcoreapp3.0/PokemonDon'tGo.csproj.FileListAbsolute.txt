@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ListsExercise\PokemonDon'tGo\bin\Debug\netcoreapp3.0\PokemonDon'tGo.exe
+D:\Learning\C#FundamentalsPractics\ListsExercise\PokemonDon'tGo\bin\Debug\netcoreapp3.0\PokemonDon'tGo.deps.json
+D:\Learning\C#FundamentalsPractics\ListsExercise\PokemonDon'tGo\bin\Debug\netcoreapp3.0\PokemonDon'tGo.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ListsExercise\PokemonDon'tGo\bin\Debug\netcoreapp3.0\PokemonDon'tGo.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ListsExercise\PokemonDon'tGo\bin\Debug\netcoreapp3.0\PokemonDon'tGo.dll
+D:\Learning\C#FundamentalsPractics\ListsExercise\PokemonDon'tGo\bin\Debug\netcoreapp3.0\PokemonDon'tGo.pdb
+D:\Learning\C#FundamentalsPractics\ListsExercise\PokemonDon'tGo\obj\Debug\netcoreapp3.0\PokemonDon'tGo.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ListsExercise\PokemonDon'tGo\obj\Debug\netcoreapp3.0\PokemonDon'tGo.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ListsExercise\PokemonDon'tGo\obj\Debug\netcoreapp3.0\PokemonDon'tGo.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ListsExercise\PokemonDon'tGo\obj\Debug\netcoreapp3.0\PokemonDon'tGo.dll
+D:\Learning\C#FundamentalsPractics\ListsExercise\PokemonDon'tGo\obj\Debug\netcoreapp3.0\PokemonDon'tGo.pdb

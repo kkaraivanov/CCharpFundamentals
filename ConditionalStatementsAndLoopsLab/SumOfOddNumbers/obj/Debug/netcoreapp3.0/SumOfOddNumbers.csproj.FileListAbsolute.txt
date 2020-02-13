@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\SumOfOddNumbers\bin\Debug\netcoreapp3.0\SumOfOddNumbers.exe
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\SumOfOddNumbers\bin\Debug\netcoreapp3.0\SumOfOddNumbers.deps.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\SumOfOddNumbers\bin\Debug\netcoreapp3.0\SumOfOddNumbers.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\SumOfOddNumbers\bin\Debug\netcoreapp3.0\SumOfOddNumbers.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\SumOfOddNumbers\bin\Debug\netcoreapp3.0\SumOfOddNumbers.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\SumOfOddNumbers\bin\Debug\netcoreapp3.0\SumOfOddNumbers.pdb
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\SumOfOddNumbers\obj\Debug\netcoreapp3.0\SumOfOddNumbers.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\SumOfOddNumbers\obj\Debug\netcoreapp3.0\SumOfOddNumbers.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\SumOfOddNumbers\obj\Debug\netcoreapp3.0\SumOfOddNumbers.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\SumOfOddNumbers\obj\Debug\netcoreapp3.0\SumOfOddNumbers.pdb
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\SumOfOddNumbers\obj\Debug\netcoreapp3.0\SumOfOddNumbers.csprojAssemblyReference.cache

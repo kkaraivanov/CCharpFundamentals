@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\CenturiesToMinutes\bin\Debug\netcoreapp3.0\CenturiesToMinutes.exe
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\CenturiesToMinutes\bin\Debug\netcoreapp3.0\CenturiesToMinutes.deps.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\CenturiesToMinutes\bin\Debug\netcoreapp3.0\CenturiesToMinutes.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\CenturiesToMinutes\bin\Debug\netcoreapp3.0\CenturiesToMinutes.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\CenturiesToMinutes\bin\Debug\netcoreapp3.0\CenturiesToMinutes.dll
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\CenturiesToMinutes\bin\Debug\netcoreapp3.0\CenturiesToMinutes.pdb
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\CenturiesToMinutes\obj\Debug\netcoreapp3.0\CenturiesToMinutes.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\CenturiesToMinutes\obj\Debug\netcoreapp3.0\CenturiesToMinutes.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\CenturiesToMinutes\obj\Debug\netcoreapp3.0\CenturiesToMinutes.dll
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\CenturiesToMinutes\obj\Debug\netcoreapp3.0\CenturiesToMinutes.pdb
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\CenturiesToMinutes\obj\Debug\netcoreapp3.0\CenturiesToMinutes.csprojAssemblyReference.cache

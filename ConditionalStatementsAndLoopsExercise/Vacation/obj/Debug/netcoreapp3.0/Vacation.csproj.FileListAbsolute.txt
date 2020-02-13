@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Vacation\bin\Debug\netcoreapp3.0\Vacation.exe
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Vacation\bin\Debug\netcoreapp3.0\Vacation.deps.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Vacation\bin\Debug\netcoreapp3.0\Vacation.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Vacation\bin\Debug\netcoreapp3.0\Vacation.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Vacation\bin\Debug\netcoreapp3.0\Vacation.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Vacation\bin\Debug\netcoreapp3.0\Vacation.pdb
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Vacation\obj\Debug\netcoreapp3.0\Vacation.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Vacation\obj\Debug\netcoreapp3.0\Vacation.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Vacation\obj\Debug\netcoreapp3.0\Vacation.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Vacation\obj\Debug\netcoreapp3.0\Vacation.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Vacation\obj\Debug\netcoreapp3.0\Vacation.pdb

@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ArraysLab\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.0\PrintNumbersInReverseOrder.exe
+D:\Learning\C#FundamentalsPractics\ArraysLab\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.0\PrintNumbersInReverseOrder.deps.json
+D:\Learning\C#FundamentalsPractics\ArraysLab\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.0\PrintNumbersInReverseOrder.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ArraysLab\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.0\PrintNumbersInReverseOrder.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ArraysLab\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.0\PrintNumbersInReverseOrder.dll
+D:\Learning\C#FundamentalsPractics\ArraysLab\PrintNumbersInReverseOrder\bin\Debug\netcoreapp3.0\PrintNumbersInReverseOrder.pdb
+D:\Learning\C#FundamentalsPractics\ArraysLab\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.0\PrintNumbersInReverseOrder.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ArraysLab\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.0\PrintNumbersInReverseOrder.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ArraysLab\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.0\PrintNumbersInReverseOrder.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ArraysLab\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.0\PrintNumbersInReverseOrder.dll
+D:\Learning\C#FundamentalsPractics\ArraysLab\PrintNumbersInReverseOrder\obj\Debug\netcoreapp3.0\PrintNumbersInReverseOrder.pdb

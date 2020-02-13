@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ListsExercise\ListOperations\bin\Debug\netcoreapp3.0\ListOperations.exe
+D:\Learning\C#FundamentalsPractics\ListsExercise\ListOperations\bin\Debug\netcoreapp3.0\ListOperations.deps.json
+D:\Learning\C#FundamentalsPractics\ListsExercise\ListOperations\bin\Debug\netcoreapp3.0\ListOperations.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ListsExercise\ListOperations\bin\Debug\netcoreapp3.0\ListOperations.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ListsExercise\ListOperations\bin\Debug\netcoreapp3.0\ListOperations.dll
+D:\Learning\C#FundamentalsPractics\ListsExercise\ListOperations\bin\Debug\netcoreapp3.0\ListOperations.pdb
+D:\Learning\C#FundamentalsPractics\ListsExercise\ListOperations\obj\Debug\netcoreapp3.0\ListOperations.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ListsExercise\ListOperations\obj\Debug\netcoreapp3.0\ListOperations.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ListsExercise\ListOperations\obj\Debug\netcoreapp3.0\ListOperations.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ListsExercise\ListOperations\obj\Debug\netcoreapp3.0\ListOperations.dll
+D:\Learning\C#FundamentalsPractics\ListsExercise\ListOperations\obj\Debug\netcoreapp3.0\ListOperations.pdb

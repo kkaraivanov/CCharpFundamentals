@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\Messaging\bin\Debug\netcoreapp3.0\Messaging.exe
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\Messaging\bin\Debug\netcoreapp3.0\Messaging.deps.json
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\Messaging\bin\Debug\netcoreapp3.0\Messaging.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\Messaging\bin\Debug\netcoreapp3.0\Messaging.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\Messaging\bin\Debug\netcoreapp3.0\Messaging.dll
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\Messaging\bin\Debug\netcoreapp3.0\Messaging.pdb
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\Messaging\obj\Debug\netcoreapp3.0\Messaging.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\Messaging\obj\Debug\netcoreapp3.0\Messaging.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\Messaging\obj\Debug\netcoreapp3.0\Messaging.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\Messaging\obj\Debug\netcoreapp3.0\Messaging.dll
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\Messaging\obj\Debug\netcoreapp3.0\Messaging.pdb

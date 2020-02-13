@@ -1,0 +1,10 @@
+D:\Learning\C#FundamentalsPractics\ArraysLab\SumEvenNumbers\bin\Debug\netcoreapp3.0\SumEvenNumbers.exe
+D:\Learning\C#FundamentalsPractics\ArraysLab\SumEvenNumbers\bin\Debug\netcoreapp3.0\SumEvenNumbers.deps.json
+D:\Learning\C#FundamentalsPractics\ArraysLab\SumEvenNumbers\bin\Debug\netcoreapp3.0\SumEvenNumbers.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ArraysLab\SumEvenNumbers\bin\Debug\netcoreapp3.0\SumEvenNumbers.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ArraysLab\SumEvenNumbers\bin\Debug\netcoreapp3.0\SumEvenNumbers.dll
+D:\Learning\C#FundamentalsPractics\ArraysLab\SumEvenNumbers\bin\Debug\netcoreapp3.0\SumEvenNumbers.pdb
+D:\Learning\C#FundamentalsPractics\ArraysLab\SumEvenNumbers\obj\Debug\netcoreapp3.0\SumEvenNumbers.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ArraysLab\SumEvenNumbers\obj\Debug\netcoreapp3.0\SumEvenNumbers.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ArraysLab\SumEvenNumbers\obj\Debug\netcoreapp3.0\SumEvenNumbers.dll
+D:\Learning\C#FundamentalsPractics\ArraysLab\SumEvenNumbers\obj\Debug\netcoreapp3.0\SumEvenNumbers.pdb

@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\OrderByAge\bin\Debug\netcoreapp3.0\OrderByAge.exe
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\OrderByAge\bin\Debug\netcoreapp3.0\OrderByAge.deps.json
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\OrderByAge\bin\Debug\netcoreapp3.0\OrderByAge.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\OrderByAge\bin\Debug\netcoreapp3.0\OrderByAge.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\OrderByAge\bin\Debug\netcoreapp3.0\OrderByAge.dll
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\OrderByAge\bin\Debug\netcoreapp3.0\OrderByAge.pdb
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\OrderByAge\obj\Debug\netcoreapp3.0\OrderByAge.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\OrderByAge\obj\Debug\netcoreapp3.0\OrderByAge.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\OrderByAge\obj\Debug\netcoreapp3.0\OrderByAge.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\OrderByAge\obj\Debug\netcoreapp3.0\OrderByAge.dll
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\OrderByAge\obj\Debug\netcoreapp3.0\OrderByAge.pdb

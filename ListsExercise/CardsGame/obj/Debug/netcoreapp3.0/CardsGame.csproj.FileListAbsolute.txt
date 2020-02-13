@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ListsExercise\CardsGame\bin\Debug\netcoreapp3.0\CardsGame.exe
+D:\Learning\C#FundamentalsPractics\ListsExercise\CardsGame\bin\Debug\netcoreapp3.0\CardsGame.deps.json
+D:\Learning\C#FundamentalsPractics\ListsExercise\CardsGame\bin\Debug\netcoreapp3.0\CardsGame.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ListsExercise\CardsGame\bin\Debug\netcoreapp3.0\CardsGame.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ListsExercise\CardsGame\bin\Debug\netcoreapp3.0\CardsGame.dll
+D:\Learning\C#FundamentalsPractics\ListsExercise\CardsGame\bin\Debug\netcoreapp3.0\CardsGame.pdb
+D:\Learning\C#FundamentalsPractics\ListsExercise\CardsGame\obj\Debug\netcoreapp3.0\CardsGame.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ListsExercise\CardsGame\obj\Debug\netcoreapp3.0\CardsGame.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ListsExercise\CardsGame\obj\Debug\netcoreapp3.0\CardsGame.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ListsExercise\CardsGame\obj\Debug\netcoreapp3.0\CardsGame.dll
+D:\Learning\C#FundamentalsPractics\ListsExercise\CardsGame\obj\Debug\netcoreapp3.0\CardsGame.pdb

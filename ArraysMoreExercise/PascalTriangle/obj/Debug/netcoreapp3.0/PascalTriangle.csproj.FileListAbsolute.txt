@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\PascalTriangle\bin\Debug\netcoreapp3.0\PascalTriangle.exe
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\PascalTriangle\bin\Debug\netcoreapp3.0\PascalTriangle.deps.json
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\PascalTriangle\bin\Debug\netcoreapp3.0\PascalTriangle.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\PascalTriangle\bin\Debug\netcoreapp3.0\PascalTriangle.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\PascalTriangle\bin\Debug\netcoreapp3.0\PascalTriangle.dll
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\PascalTriangle\bin\Debug\netcoreapp3.0\PascalTriangle.pdb
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\PascalTriangle\obj\Debug\netcoreapp3.0\PascalTriangle.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\PascalTriangle\obj\Debug\netcoreapp3.0\PascalTriangle.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\PascalTriangle\obj\Debug\netcoreapp3.0\PascalTriangle.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\PascalTriangle\obj\Debug\netcoreapp3.0\PascalTriangle.dll
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\PascalTriangle\obj\Debug\netcoreapp3.0\PascalTriangle.pdb

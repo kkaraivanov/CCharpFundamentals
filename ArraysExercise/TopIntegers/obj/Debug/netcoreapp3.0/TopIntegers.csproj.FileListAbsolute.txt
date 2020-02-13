@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ArraysExercise\TopIntegers\bin\Debug\netcoreapp3.0\TopIntegers.exe
+D:\Learning\C#FundamentalsPractics\ArraysExercise\TopIntegers\bin\Debug\netcoreapp3.0\TopIntegers.deps.json
+D:\Learning\C#FundamentalsPractics\ArraysExercise\TopIntegers\bin\Debug\netcoreapp3.0\TopIntegers.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ArraysExercise\TopIntegers\bin\Debug\netcoreapp3.0\TopIntegers.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ArraysExercise\TopIntegers\bin\Debug\netcoreapp3.0\TopIntegers.dll
+D:\Learning\C#FundamentalsPractics\ArraysExercise\TopIntegers\bin\Debug\netcoreapp3.0\TopIntegers.pdb
+D:\Learning\C#FundamentalsPractics\ArraysExercise\TopIntegers\obj\Debug\netcoreapp3.0\TopIntegers.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ArraysExercise\TopIntegers\obj\Debug\netcoreapp3.0\TopIntegers.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ArraysExercise\TopIntegers\obj\Debug\netcoreapp3.0\TopIntegers.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ArraysExercise\TopIntegers\obj\Debug\netcoreapp3.0\TopIntegers.dll
+D:\Learning\C#FundamentalsPractics\ArraysExercise\TopIntegers\obj\Debug\netcoreapp3.0\TopIntegers.pdb

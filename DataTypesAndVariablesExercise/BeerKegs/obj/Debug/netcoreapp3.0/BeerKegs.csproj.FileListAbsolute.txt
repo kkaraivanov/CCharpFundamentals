@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\netcoreapp3.0\BeerKegs.exe
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\netcoreapp3.0\BeerKegs.deps.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\netcoreapp3.0\BeerKegs.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\netcoreapp3.0\BeerKegs.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\netcoreapp3.0\BeerKegs.dll
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\BeerKegs\bin\Debug\netcoreapp3.0\BeerKegs.pdb
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\netcoreapp3.0\BeerKegs.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\netcoreapp3.0\BeerKegs.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\netcoreapp3.0\BeerKegs.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\netcoreapp3.0\BeerKegs.dll
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\BeerKegs\obj\Debug\netcoreapp3.0\BeerKegs.pdb

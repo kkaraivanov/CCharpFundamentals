@@ -1,0 +1,10 @@
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\ReversedChars\bin\Debug\netcoreapp3.0\ReversedChars.exe
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\ReversedChars\bin\Debug\netcoreapp3.0\ReversedChars.deps.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\ReversedChars\bin\Debug\netcoreapp3.0\ReversedChars.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\ReversedChars\bin\Debug\netcoreapp3.0\ReversedChars.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\ReversedChars\bin\Debug\netcoreapp3.0\ReversedChars.dll
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\ReversedChars\bin\Debug\netcoreapp3.0\ReversedChars.pdb
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\ReversedChars\obj\Debug\netcoreapp3.0\ReversedChars.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\ReversedChars\obj\Debug\netcoreapp3.0\ReversedChars.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\ReversedChars\obj\Debug\netcoreapp3.0\ReversedChars.dll
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\ReversedChars\obj\Debug\netcoreapp3.0\ReversedChars.pdb

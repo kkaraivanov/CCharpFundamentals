@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\Articles2\bin\Debug\netcoreapp3.0\Articles2.exe
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\Articles2\bin\Debug\netcoreapp3.0\Articles2.deps.json
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\Articles2\bin\Debug\netcoreapp3.0\Articles2.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\Articles2\bin\Debug\netcoreapp3.0\Articles2.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\Articles2\bin\Debug\netcoreapp3.0\Articles2.dll
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\Articles2\bin\Debug\netcoreapp3.0\Articles2.pdb
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\Articles2\obj\Debug\netcoreapp3.0\Articles2.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\Articles2\obj\Debug\netcoreapp3.0\Articles2.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\Articles2\obj\Debug\netcoreapp3.0\Articles2.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\Articles2\obj\Debug\netcoreapp3.0\Articles2.dll
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\Articles2\obj\Debug\netcoreapp3.0\Articles2.pdb

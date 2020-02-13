@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.0\MaxSequenceOfEqualElements.exe
+D:\Learning\C#FundamentalsPractics\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.0\MaxSequenceOfEqualElements.deps.json
+D:\Learning\C#FundamentalsPractics\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.0\MaxSequenceOfEqualElements.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.0\MaxSequenceOfEqualElements.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.0\MaxSequenceOfEqualElements.dll
+D:\Learning\C#FundamentalsPractics\ArraysExercise\MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.0\MaxSequenceOfEqualElements.pdb
+D:\Learning\C#FundamentalsPractics\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.0\MaxSequenceOfEqualElements.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.0\MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.0\MaxSequenceOfEqualElements.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.0\MaxSequenceOfEqualElements.dll
+D:\Learning\C#FundamentalsPractics\ArraysExercise\MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.0\MaxSequenceOfEqualElements.pdb

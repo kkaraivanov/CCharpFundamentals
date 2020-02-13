@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\RageExpenses\bin\Debug\netcoreapp3.0\RageExpenses.exe
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\RageExpenses\bin\Debug\netcoreapp3.0\RageExpenses.deps.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\RageExpenses\bin\Debug\netcoreapp3.0\RageExpenses.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\RageExpenses\bin\Debug\netcoreapp3.0\RageExpenses.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\RageExpenses\bin\Debug\netcoreapp3.0\RageExpenses.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\RageExpenses\bin\Debug\netcoreapp3.0\RageExpenses.pdb
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\RageExpenses\obj\Debug\netcoreapp3.0\RageExpenses.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\RageExpenses\obj\Debug\netcoreapp3.0\RageExpenses.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\RageExpenses\obj\Debug\netcoreapp3.0\RageExpenses.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\RageExpenses\obj\Debug\netcoreapp3.0\RageExpenses.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\RageExpenses\obj\Debug\netcoreapp3.0\RageExpenses.pdb

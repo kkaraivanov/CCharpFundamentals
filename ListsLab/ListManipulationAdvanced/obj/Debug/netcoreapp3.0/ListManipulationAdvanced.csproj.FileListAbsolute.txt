@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ListsLab\ListManipulationAdvanced\bin\Debug\netcoreapp3.0\ListManipulationAdvanced.exe
+D:\Learning\C#FundamentalsPractics\ListsLab\ListManipulationAdvanced\bin\Debug\netcoreapp3.0\ListManipulationAdvanced.deps.json
+D:\Learning\C#FundamentalsPractics\ListsLab\ListManipulationAdvanced\bin\Debug\netcoreapp3.0\ListManipulationAdvanced.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ListsLab\ListManipulationAdvanced\bin\Debug\netcoreapp3.0\ListManipulationAdvanced.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ListsLab\ListManipulationAdvanced\bin\Debug\netcoreapp3.0\ListManipulationAdvanced.dll
+D:\Learning\C#FundamentalsPractics\ListsLab\ListManipulationAdvanced\bin\Debug\netcoreapp3.0\ListManipulationAdvanced.pdb
+D:\Learning\C#FundamentalsPractics\ListsLab\ListManipulationAdvanced\obj\Debug\netcoreapp3.0\ListManipulationAdvanced.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ListsLab\ListManipulationAdvanced\obj\Debug\netcoreapp3.0\ListManipulationAdvanced.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ListsLab\ListManipulationAdvanced\obj\Debug\netcoreapp3.0\ListManipulationAdvanced.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ListsLab\ListManipulationAdvanced\obj\Debug\netcoreapp3.0\ListManipulationAdvanced.dll
+D:\Learning\C#FundamentalsPractics\ListsLab\ListManipulationAdvanced\obj\Debug\netcoreapp3.0\ListManipulationAdvanced.pdb

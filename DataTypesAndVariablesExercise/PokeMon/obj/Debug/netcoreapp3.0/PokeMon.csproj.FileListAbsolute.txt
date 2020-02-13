@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\PokeMon\bin\Debug\netcoreapp3.0\PokeMon.exe
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\PokeMon\bin\Debug\netcoreapp3.0\PokeMon.deps.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\PokeMon\bin\Debug\netcoreapp3.0\PokeMon.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\PokeMon\bin\Debug\netcoreapp3.0\PokeMon.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\PokeMon\bin\Debug\netcoreapp3.0\PokeMon.dll
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\PokeMon\bin\Debug\netcoreapp3.0\PokeMon.pdb
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.0\PokeMon.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.0\PokeMon.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.0\PokeMon.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.0\PokeMon.dll
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\PokeMon\obj\Debug\netcoreapp3.0\PokeMon.pdb

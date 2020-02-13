@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\PrintAndSum\bin\Debug\netcoreapp3.0\PrintAndSum.exe
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\PrintAndSum\bin\Debug\netcoreapp3.0\PrintAndSum.deps.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\PrintAndSum\bin\Debug\netcoreapp3.0\PrintAndSum.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\PrintAndSum\bin\Debug\netcoreapp3.0\PrintAndSum.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\PrintAndSum\bin\Debug\netcoreapp3.0\PrintAndSum.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\PrintAndSum\bin\Debug\netcoreapp3.0\PrintAndSum.pdb
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\PrintAndSum\obj\Debug\netcoreapp3.0\PrintAndSum.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\PrintAndSum\obj\Debug\netcoreapp3.0\PrintAndSum.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\PrintAndSum\obj\Debug\netcoreapp3.0\PrintAndSum.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\PrintAndSum\obj\Debug\netcoreapp3.0\PrintAndSum.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\PrintAndSum\obj\Debug\netcoreapp3.0\PrintAndSum.pdb

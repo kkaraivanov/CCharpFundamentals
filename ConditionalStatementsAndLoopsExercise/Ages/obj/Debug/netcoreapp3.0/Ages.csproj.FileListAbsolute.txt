@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Ages\bin\Debug\netcoreapp3.0\Ages.exe
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Ages\bin\Debug\netcoreapp3.0\Ages.deps.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Ages\bin\Debug\netcoreapp3.0\Ages.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Ages\bin\Debug\netcoreapp3.0\Ages.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Ages\bin\Debug\netcoreapp3.0\Ages.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Ages\bin\Debug\netcoreapp3.0\Ages.pdb
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Ages\obj\Debug\netcoreapp3.0\Ages.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Ages\obj\Debug\netcoreapp3.0\Ages.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Ages\obj\Debug\netcoreapp3.0\Ages.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Ages\obj\Debug\netcoreapp3.0\Ages.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsExercise\Ages\obj\Debug\netcoreapp3.0\Ages.pdb

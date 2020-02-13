@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\CarRace\bin\Debug\netcoreapp3.0\CarRace.exe
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\CarRace\bin\Debug\netcoreapp3.0\CarRace.deps.json
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\CarRace\bin\Debug\netcoreapp3.0\CarRace.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\CarRace\bin\Debug\netcoreapp3.0\CarRace.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\CarRace\bin\Debug\netcoreapp3.0\CarRace.dll
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\CarRace\bin\Debug\netcoreapp3.0\CarRace.pdb
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\CarRace\obj\Debug\netcoreapp3.0\CarRace.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\CarRace\obj\Debug\netcoreapp3.0\CarRace.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\CarRace\obj\Debug\netcoreapp3.0\CarRace.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\CarRace\obj\Debug\netcoreapp3.0\CarRace.dll
+D:\Learning\C#FundamentalsPractics\ListsMoreExercise\CarRace\obj\Debug\netcoreapp3.0\CarRace.pdb

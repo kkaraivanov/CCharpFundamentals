@@ -1,0 +1,10 @@
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\StudentInformation\bin\Debug\netcoreapp3.0\StudentInformation.exe
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\StudentInformation\bin\Debug\netcoreapp3.0\StudentInformation.deps.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\StudentInformation\bin\Debug\netcoreapp3.0\StudentInformation.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\StudentInformation\bin\Debug\netcoreapp3.0\StudentInformation.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\StudentInformation\bin\Debug\netcoreapp3.0\StudentInformation.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\StudentInformation\bin\Debug\netcoreapp3.0\StudentInformation.pdb
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\StudentInformation\obj\Debug\netcoreapp3.0\StudentInformation.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\StudentInformation\obj\Debug\netcoreapp3.0\StudentInformation.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\StudentInformation\obj\Debug\netcoreapp3.0\StudentInformation.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\StudentInformation\obj\Debug\netcoreapp3.0\StudentInformation.pdb

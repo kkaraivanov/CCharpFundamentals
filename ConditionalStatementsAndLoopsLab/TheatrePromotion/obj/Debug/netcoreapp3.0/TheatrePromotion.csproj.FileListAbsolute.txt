@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\TheatrePromotion\bin\Debug\netcoreapp3.0\TheatrePromotion.exe
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\TheatrePromotion\bin\Debug\netcoreapp3.0\TheatrePromotion.deps.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\TheatrePromotion\bin\Debug\netcoreapp3.0\TheatrePromotion.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\TheatrePromotion\bin\Debug\netcoreapp3.0\TheatrePromotion.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\TheatrePromotion\bin\Debug\netcoreapp3.0\TheatrePromotion.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\TheatrePromotion\bin\Debug\netcoreapp3.0\TheatrePromotion.pdb
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\TheatrePromotion\obj\Debug\netcoreapp3.0\TheatrePromotion.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\TheatrePromotion\obj\Debug\netcoreapp3.0\TheatrePromotion.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\TheatrePromotion\obj\Debug\netcoreapp3.0\TheatrePromotion.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\TheatrePromotion\obj\Debug\netcoreapp3.0\TheatrePromotion.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\TheatrePromotion\obj\Debug\netcoreapp3.0\TheatrePromotion.pdb

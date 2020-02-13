@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\netcoreapp3.0\EncryptSortAndPrintArray.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\netcoreapp3.0\EncryptSortAndPrintArray.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\netcoreapp3.0\EncryptSortAndPrintArray.exe
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\netcoreapp3.0\EncryptSortAndPrintArray.deps.json
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\netcoreapp3.0\EncryptSortAndPrintArray.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\netcoreapp3.0\EncryptSortAndPrintArray.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\netcoreapp3.0\EncryptSortAndPrintArray.dll
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\EncryptSortAndPrintArray\bin\Debug\netcoreapp3.0\EncryptSortAndPrintArray.pdb
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\netcoreapp3.0\EncryptSortAndPrintArray.dll
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\netcoreapp3.0\EncryptSortAndPrintArray.pdb
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\EncryptSortAndPrintArray\obj\Debug\netcoreapp3.0\EncryptSortAndPrintArray.csprojAssemblyReference.cache

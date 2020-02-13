@@ -1,0 +1,10 @@
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\netcoreapp3.0\VehicleCatalogue.exe
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\netcoreapp3.0\VehicleCatalogue.deps.json
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\netcoreapp3.0\VehicleCatalogue.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\netcoreapp3.0\VehicleCatalogue.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\netcoreapp3.0\VehicleCatalogue.dll
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\VehicleCatalogue\bin\Debug\netcoreapp3.0\VehicleCatalogue.pdb
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\netcoreapp3.0\VehicleCatalogue.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\netcoreapp3.0\VehicleCatalogue.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\netcoreapp3.0\VehicleCatalogue.dll
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesExercise\VehicleCatalogue\obj\Debug\netcoreapp3.0\VehicleCatalogue.pdb

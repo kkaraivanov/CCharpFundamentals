@@ -1,0 +1,10 @@
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\SpecialNumbers\bin\Debug\netcoreapp3.0\SpecialNumbers.exe
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\SpecialNumbers\bin\Debug\netcoreapp3.0\SpecialNumbers.deps.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\SpecialNumbers\bin\Debug\netcoreapp3.0\SpecialNumbers.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\SpecialNumbers\bin\Debug\netcoreapp3.0\SpecialNumbers.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\SpecialNumbers\bin\Debug\netcoreapp3.0\SpecialNumbers.dll
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\SpecialNumbers\bin\Debug\netcoreapp3.0\SpecialNumbers.pdb
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\SpecialNumbers\obj\Debug\netcoreapp3.0\SpecialNumbers.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\SpecialNumbers\obj\Debug\netcoreapp3.0\SpecialNumbers.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\SpecialNumbers\obj\Debug\netcoreapp3.0\SpecialNumbers.dll
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\SpecialNumbers\obj\Debug\netcoreapp3.0\SpecialNumbers.pdb

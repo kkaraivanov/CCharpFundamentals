@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\SortNumbers\bin\Debug\netcoreapp3.0\SortNumbers.exe
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\SortNumbers\bin\Debug\netcoreapp3.0\SortNumbers.deps.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\SortNumbers\bin\Debug\netcoreapp3.0\SortNumbers.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\SortNumbers\bin\Debug\netcoreapp3.0\SortNumbers.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\SortNumbers\bin\Debug\netcoreapp3.0\SortNumbers.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\SortNumbers\bin\Debug\netcoreapp3.0\SortNumbers.pdb
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\SortNumbers\obj\Debug\netcoreapp3.0\SortNumbers.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\SortNumbers\obj\Debug\netcoreapp3.0\SortNumbers.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\SortNumbers\obj\Debug\netcoreapp3.0\SortNumbers.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\SortNumbers\obj\Debug\netcoreapp3.0\SortNumbers.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\SortNumbers\obj\Debug\netcoreapp3.0\SortNumbers.pdb

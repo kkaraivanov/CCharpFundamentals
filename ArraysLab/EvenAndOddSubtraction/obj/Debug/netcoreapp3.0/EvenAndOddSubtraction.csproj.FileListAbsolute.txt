@@ -1,0 +1,10 @@
+D:\Learning\C#FundamentalsPractics\ArraysLab\EvenAndOddSubtraction\bin\Debug\netcoreapp3.0\EvenAndOddSubtraction.exe
+D:\Learning\C#FundamentalsPractics\ArraysLab\EvenAndOddSubtraction\bin\Debug\netcoreapp3.0\EvenAndOddSubtraction.deps.json
+D:\Learning\C#FundamentalsPractics\ArraysLab\EvenAndOddSubtraction\bin\Debug\netcoreapp3.0\EvenAndOddSubtraction.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ArraysLab\EvenAndOddSubtraction\bin\Debug\netcoreapp3.0\EvenAndOddSubtraction.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ArraysLab\EvenAndOddSubtraction\bin\Debug\netcoreapp3.0\EvenAndOddSubtraction.dll
+D:\Learning\C#FundamentalsPractics\ArraysLab\EvenAndOddSubtraction\bin\Debug\netcoreapp3.0\EvenAndOddSubtraction.pdb
+D:\Learning\C#FundamentalsPractics\ArraysLab\EvenAndOddSubtraction\obj\Debug\netcoreapp3.0\EvenAndOddSubtraction.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ArraysLab\EvenAndOddSubtraction\obj\Debug\netcoreapp3.0\EvenAndOddSubtraction.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ArraysLab\EvenAndOddSubtraction\obj\Debug\netcoreapp3.0\EvenAndOddSubtraction.dll
+D:\Learning\C#FundamentalsPractics\ArraysLab\EvenAndOddSubtraction\obj\Debug\netcoreapp3.0\EvenAndOddSubtraction.pdb

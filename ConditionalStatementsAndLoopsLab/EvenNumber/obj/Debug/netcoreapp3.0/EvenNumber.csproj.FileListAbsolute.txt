@@ -1,0 +1,10 @@
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\EvenNumber\bin\Debug\netcoreapp3.0\EvenNumber.exe
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\EvenNumber\bin\Debug\netcoreapp3.0\EvenNumber.deps.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\EvenNumber\bin\Debug\netcoreapp3.0\EvenNumber.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\EvenNumber\bin\Debug\netcoreapp3.0\EvenNumber.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\EvenNumber\bin\Debug\netcoreapp3.0\EvenNumber.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\EvenNumber\bin\Debug\netcoreapp3.0\EvenNumber.pdb
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\EvenNumber\obj\Debug\netcoreapp3.0\EvenNumber.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\EvenNumber\obj\Debug\netcoreapp3.0\EvenNumber.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\EvenNumber\obj\Debug\netcoreapp3.0\EvenNumber.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsLab\EvenNumber\obj\Debug\netcoreapp3.0\EvenNumber.pdb

@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\LongestIncreasingSubsequence\bin\Debug\netcoreapp3.0\LongestIncreasingSubsequence.exe
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\LongestIncreasingSubsequence\bin\Debug\netcoreapp3.0\LongestIncreasingSubsequence.deps.json
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\LongestIncreasingSubsequence\bin\Debug\netcoreapp3.0\LongestIncreasingSubsequence.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\LongestIncreasingSubsequence\bin\Debug\netcoreapp3.0\LongestIncreasingSubsequence.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\LongestIncreasingSubsequence\bin\Debug\netcoreapp3.0\LongestIncreasingSubsequence.dll
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\LongestIncreasingSubsequence\bin\Debug\netcoreapp3.0\LongestIncreasingSubsequence.pdb
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\LongestIncreasingSubsequence\obj\Debug\netcoreapp3.0\LongestIncreasingSubsequence.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\LongestIncreasingSubsequence\obj\Debug\netcoreapp3.0\LongestIncreasingSubsequence.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\LongestIncreasingSubsequence\obj\Debug\netcoreapp3.0\LongestIncreasingSubsequence.dll
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\LongestIncreasingSubsequence\obj\Debug\netcoreapp3.0\LongestIncreasingSubsequence.pdb
+D:\Learning\C#FundamentalsPractics\ArraysMoreExercise\LongestIncreasingSubsequence\obj\Debug\netcoreapp3.0\LongestIncreasingSubsequence.csprojAssemblyReference.cache

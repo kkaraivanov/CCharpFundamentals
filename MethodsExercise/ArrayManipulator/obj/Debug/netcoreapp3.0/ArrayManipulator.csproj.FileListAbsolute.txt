@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\MethodsExercise\ArrayManipulator\bin\Debug\netcoreapp3.0\ArrayManipulator.exe
+D:\Learning\C#FundamentalsPractics\MethodsExercise\ArrayManipulator\bin\Debug\netcoreapp3.0\ArrayManipulator.deps.json
+D:\Learning\C#FundamentalsPractics\MethodsExercise\ArrayManipulator\bin\Debug\netcoreapp3.0\ArrayManipulator.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\MethodsExercise\ArrayManipulator\bin\Debug\netcoreapp3.0\ArrayManipulator.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\MethodsExercise\ArrayManipulator\bin\Debug\netcoreapp3.0\ArrayManipulator.dll
+D:\Learning\C#FundamentalsPractics\MethodsExercise\ArrayManipulator\bin\Debug\netcoreapp3.0\ArrayManipulator.pdb
+D:\Learning\C#FundamentalsPractics\MethodsExercise\ArrayManipulator\obj\Debug\netcoreapp3.0\ArrayManipulator.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\MethodsExercise\ArrayManipulator\obj\Debug\netcoreapp3.0\ArrayManipulator.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\MethodsExercise\ArrayManipulator\obj\Debug\netcoreapp3.0\ArrayManipulator.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\MethodsExercise\ArrayManipulator\obj\Debug\netcoreapp3.0\ArrayManipulator.dll
+D:\Learning\C#FundamentalsPractics\MethodsExercise\ArrayManipulator\obj\Debug\netcoreapp3.0\ArrayManipulator.pdb

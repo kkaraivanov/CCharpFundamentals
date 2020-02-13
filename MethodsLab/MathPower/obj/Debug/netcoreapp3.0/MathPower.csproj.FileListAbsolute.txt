@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\MethodsLab\MathPower\bin\Debug\netcoreapp3.0\MathPower.exe
+D:\Learning\C#FundamentalsPractics\MethodsLab\MathPower\bin\Debug\netcoreapp3.0\MathPower.deps.json
+D:\Learning\C#FundamentalsPractics\MethodsLab\MathPower\bin\Debug\netcoreapp3.0\MathPower.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\MethodsLab\MathPower\bin\Debug\netcoreapp3.0\MathPower.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\MethodsLab\MathPower\bin\Debug\netcoreapp3.0\MathPower.dll
+D:\Learning\C#FundamentalsPractics\MethodsLab\MathPower\bin\Debug\netcoreapp3.0\MathPower.pdb
+D:\Learning\C#FundamentalsPractics\MethodsLab\MathPower\obj\Debug\netcoreapp3.0\MathPower.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\MethodsLab\MathPower\obj\Debug\netcoreapp3.0\MathPower.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\MethodsLab\MathPower\obj\Debug\netcoreapp3.0\MathPower.dll
+D:\Learning\C#FundamentalsPractics\MethodsLab\MathPower\obj\Debug\netcoreapp3.0\MathPower.pdb
+D:\Learning\C#FundamentalsPractics\MethodsLab\MathPower\obj\Debug\netcoreapp3.0\MathPower.csprojAssemblyReference.cache

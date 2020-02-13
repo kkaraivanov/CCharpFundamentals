@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\netcoreapp3.0\FloatingEquality.exe
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\netcoreapp3.0\FloatingEquality.deps.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\netcoreapp3.0\FloatingEquality.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\netcoreapp3.0\FloatingEquality.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\netcoreapp3.0\FloatingEquality.dll
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesMoreExercise\FloatingEquality\bin\Debug\netcoreapp3.0\FloatingEquality.pdb
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\netcoreapp3.0\FloatingEquality.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\netcoreapp3.0\FloatingEquality.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\netcoreapp3.0\FloatingEquality.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\netcoreapp3.0\FloatingEquality.dll
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesMoreExercise\FloatingEquality\obj\Debug\netcoreapp3.0\FloatingEquality.pdb

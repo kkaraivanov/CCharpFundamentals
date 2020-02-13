@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\MethodsExercise\VowelsCount\bin\Debug\netcoreapp3.0\VowelsCount.exe
+D:\Learning\C#FundamentalsPractics\MethodsExercise\VowelsCount\bin\Debug\netcoreapp3.0\VowelsCount.deps.json
+D:\Learning\C#FundamentalsPractics\MethodsExercise\VowelsCount\bin\Debug\netcoreapp3.0\VowelsCount.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\MethodsExercise\VowelsCount\bin\Debug\netcoreapp3.0\VowelsCount.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\MethodsExercise\VowelsCount\bin\Debug\netcoreapp3.0\VowelsCount.dll
+D:\Learning\C#FundamentalsPractics\MethodsExercise\VowelsCount\bin\Debug\netcoreapp3.0\VowelsCount.pdb
+D:\Learning\C#FundamentalsPractics\MethodsExercise\VowelsCount\obj\Debug\netcoreapp3.0\VowelsCount.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\MethodsExercise\VowelsCount\obj\Debug\netcoreapp3.0\VowelsCount.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\MethodsExercise\VowelsCount\obj\Debug\netcoreapp3.0\VowelsCount.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\MethodsExercise\VowelsCount\obj\Debug\netcoreapp3.0\VowelsCount.dll
+D:\Learning\C#FundamentalsPractics\MethodsExercise\VowelsCount\obj\Debug\netcoreapp3.0\VowelsCount.pdb

@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ArraysExercise\CommonElements\bin\Debug\netcoreapp3.0\CommonElements.exe
+D:\Learning\C#FundamentalsPractics\ArraysExercise\CommonElements\bin\Debug\netcoreapp3.0\CommonElements.deps.json
+D:\Learning\C#FundamentalsPractics\ArraysExercise\CommonElements\bin\Debug\netcoreapp3.0\CommonElements.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ArraysExercise\CommonElements\bin\Debug\netcoreapp3.0\CommonElements.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ArraysExercise\CommonElements\bin\Debug\netcoreapp3.0\CommonElements.dll
+D:\Learning\C#FundamentalsPractics\ArraysExercise\CommonElements\bin\Debug\netcoreapp3.0\CommonElements.pdb
+D:\Learning\C#FundamentalsPractics\ArraysExercise\CommonElements\obj\Debug\netcoreapp3.0\CommonElements.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ArraysExercise\CommonElements\obj\Debug\netcoreapp3.0\CommonElements.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ArraysExercise\CommonElements\obj\Debug\netcoreapp3.0\CommonElements.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ArraysExercise\CommonElements\obj\Debug\netcoreapp3.0\CommonElements.dll
+D:\Learning\C#FundamentalsPractics\ArraysExercise\CommonElements\obj\Debug\netcoreapp3.0\CommonElements.pdb

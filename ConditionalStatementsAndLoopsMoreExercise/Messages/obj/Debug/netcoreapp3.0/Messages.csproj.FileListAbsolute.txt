@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\Messages\bin\Debug\netcoreapp3.0\Messages.exe
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\Messages\bin\Debug\netcoreapp3.0\Messages.deps.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\Messages\bin\Debug\netcoreapp3.0\Messages.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\Messages\bin\Debug\netcoreapp3.0\Messages.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\Messages\bin\Debug\netcoreapp3.0\Messages.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\Messages\bin\Debug\netcoreapp3.0\Messages.pdb
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\Messages\obj\Debug\netcoreapp3.0\Messages.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\Messages\obj\Debug\netcoreapp3.0\Messages.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\Messages\obj\Debug\netcoreapp3.0\Messages.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\Messages\obj\Debug\netcoreapp3.0\Messages.dll
+D:\Learning\C#FundamentalsPractics\ConditionalStatementsAndLoopsMoreExercise\Messages\obj\Debug\netcoreapp3.0\Messages.pdb

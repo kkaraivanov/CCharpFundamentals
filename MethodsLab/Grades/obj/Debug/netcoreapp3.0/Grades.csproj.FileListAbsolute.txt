@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\MethodsLab\Grades\bin\Debug\netcoreapp3.0\Grades.exe
+D:\Learning\C#FundamentalsPractics\MethodsLab\Grades\bin\Debug\netcoreapp3.0\Grades.deps.json
+D:\Learning\C#FundamentalsPractics\MethodsLab\Grades\bin\Debug\netcoreapp3.0\Grades.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\MethodsLab\Grades\bin\Debug\netcoreapp3.0\Grades.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\MethodsLab\Grades\bin\Debug\netcoreapp3.0\Grades.dll
+D:\Learning\C#FundamentalsPractics\MethodsLab\Grades\bin\Debug\netcoreapp3.0\Grades.pdb
+D:\Learning\C#FundamentalsPractics\MethodsLab\Grades\obj\Debug\netcoreapp3.0\Grades.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\MethodsLab\Grades\obj\Debug\netcoreapp3.0\Grades.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\MethodsLab\Grades\obj\Debug\netcoreapp3.0\Grades.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\MethodsLab\Grades\obj\Debug\netcoreapp3.0\Grades.dll
+D:\Learning\C#FundamentalsPractics\MethodsLab\Grades\obj\Debug\netcoreapp3.0\Grades.pdb

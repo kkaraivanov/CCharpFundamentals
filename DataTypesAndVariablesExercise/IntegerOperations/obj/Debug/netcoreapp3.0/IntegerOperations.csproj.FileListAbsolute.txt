@@ -1,0 +1,10 @@
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\IntegerOperations\bin\Debug\netcoreapp3.0\IntegerOperations.exe
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\IntegerOperations\bin\Debug\netcoreapp3.0\IntegerOperations.deps.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\IntegerOperations\bin\Debug\netcoreapp3.0\IntegerOperations.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\IntegerOperations\bin\Debug\netcoreapp3.0\IntegerOperations.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\IntegerOperations\bin\Debug\netcoreapp3.0\IntegerOperations.dll
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\IntegerOperations\bin\Debug\netcoreapp3.0\IntegerOperations.pdb
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\IntegerOperations\obj\Debug\netcoreapp3.0\IntegerOperations.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\IntegerOperations\obj\Debug\netcoreapp3.0\IntegerOperations.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\IntegerOperations\obj\Debug\netcoreapp3.0\IntegerOperations.dll
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesExercise\IntegerOperations\obj\Debug\netcoreapp3.0\IntegerOperations.pdb

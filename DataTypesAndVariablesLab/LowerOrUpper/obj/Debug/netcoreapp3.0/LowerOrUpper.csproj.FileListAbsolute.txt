@@ -1,0 +1,10 @@
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\LowerOrUpper\bin\Debug\netcoreapp3.0\LowerOrUpper.exe
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\LowerOrUpper\bin\Debug\netcoreapp3.0\LowerOrUpper.deps.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\LowerOrUpper\bin\Debug\netcoreapp3.0\LowerOrUpper.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\LowerOrUpper\bin\Debug\netcoreapp3.0\LowerOrUpper.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\LowerOrUpper\bin\Debug\netcoreapp3.0\LowerOrUpper.dll
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\LowerOrUpper\bin\Debug\netcoreapp3.0\LowerOrUpper.pdb
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\LowerOrUpper\obj\Debug\netcoreapp3.0\LowerOrUpper.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\LowerOrUpper\obj\Debug\netcoreapp3.0\LowerOrUpper.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\LowerOrUpper\obj\Debug\netcoreapp3.0\LowerOrUpper.dll
+D:\Learning\C#FundamentalsPractics\DataTypesAndVariablesLab\LowerOrUpper\obj\Debug\netcoreapp3.0\LowerOrUpper.pdb

@@ -1,0 +1,10 @@
+D:\Learning\C#FundamentalsPractics\MethodsExercise\PalindromeIntegers\bin\Debug\netcoreapp3.0\PalindromeIntegers.exe
+D:\Learning\C#FundamentalsPractics\MethodsExercise\PalindromeIntegers\bin\Debug\netcoreapp3.0\PalindromeIntegers.deps.json
+D:\Learning\C#FundamentalsPractics\MethodsExercise\PalindromeIntegers\bin\Debug\netcoreapp3.0\PalindromeIntegers.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\MethodsExercise\PalindromeIntegers\bin\Debug\netcoreapp3.0\PalindromeIntegers.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\MethodsExercise\PalindromeIntegers\bin\Debug\netcoreapp3.0\PalindromeIntegers.dll
+D:\Learning\C#FundamentalsPractics\MethodsExercise\PalindromeIntegers\bin\Debug\netcoreapp3.0\PalindromeIntegers.pdb
+D:\Learning\C#FundamentalsPractics\MethodsExercise\PalindromeIntegers\obj\Debug\netcoreapp3.0\PalindromeIntegers.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\MethodsExercise\PalindromeIntegers\obj\Debug\netcoreapp3.0\PalindromeIntegers.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\MethodsExercise\PalindromeIntegers\obj\Debug\netcoreapp3.0\PalindromeIntegers.dll
+D:\Learning\C#FundamentalsPractics\MethodsExercise\PalindromeIntegers\obj\Debug\netcoreapp3.0\PalindromeIntegers.pdb
