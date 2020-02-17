@@ -1,0 +1,10 @@
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesLab\Students2\bin\Debug\netcoreapp3.0\Students2.exe
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesLab\Students2\bin\Debug\netcoreapp3.0\Students2.deps.json
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesLab\Students2\bin\Debug\netcoreapp3.0\Students2.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesLab\Students2\bin\Debug\netcoreapp3.0\Students2.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesLab\Students2\bin\Debug\netcoreapp3.0\Students2.dll
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesLab\Students2\bin\Debug\netcoreapp3.0\Students2.pdb
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesLab\Students2\obj\Debug\netcoreapp3.0\Students2.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesLab\Students2\obj\Debug\netcoreapp3.0\Students2.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesLab\Students2\obj\Debug\netcoreapp3.0\Students2.dll
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesLab\Students2\obj\Debug\netcoreapp3.0\Students2.pdb
