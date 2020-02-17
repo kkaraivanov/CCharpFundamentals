@@ -12,7 +12,7 @@ namespace AnonymousThreat
             string commands = string.Empty;
 
             while ((commands = Console.ReadLine()) != "3:1")
-            { 
+            {
                 string[] command = commands.Split().ToArray();
                 switch (command[0])
                 {
@@ -24,7 +24,7 @@ namespace AnonymousThreat
                     case "divide":
                         int index = int.Parse(command[1]);
                         int partitions = int.Parse(command[2]);
-                        inputLine = DivideElements(inputLine, index, partitions);
+                        inputLine = DivideElements(inputLine, index, partitions).ToList();
                         break;
                 }
             }
@@ -34,9 +34,13 @@ namespace AnonymousThreat
 
         private static List<string> DivideElements(List<string> inputLine, int index, int partitions)
         {
+            if (partitions == 0)
+                return inputLine;
+
             string divideElement = inputLine[index]; // стринг за разделяне с дължина index
             string[] div = new string[partitions];
             int length = divideElement.Length / partitions; // разделям стринга на равни части
+
             if (length <= 0)
                 return inputLine;
             for (int i = 0; divideElement.Length > length; i++)
@@ -47,33 +51,38 @@ namespace AnonymousThreat
                 div[i] = divideElement.Substring(0, length);
 
                 //премахвам от стринга добавените в масива елементи
-                //if()
                 divideElement = divideElement.Substring(length);
             }
-            div[partitions - 1] += divideElement; // добавям последната част от стринга
 
-            return inputLine.Take(index)
+            div[partitions - 1] += divideElement; // добавям последната част от стринга
+            inputLine = inputLine.Take(index)
                 .Concat(div)
                 .Concat(inputLine.Skip(index + 1))
                 .ToList();
+
+            return inputLine;
         }
-        
-    private static List<string> MargeElements(List<string> inputLine, int startIndex, int endIndex)
+
+        private static List<string> MargeElements(List<string> inputLine, int startIndex, int endIndex)
         {
             string newItem = string.Empty;
 
-            if (startIndex < 0 || startIndex > inputLine.Count)
+            if (startIndex < 0)
                 startIndex = 0;
-            if (endIndex > inputLine.Count || endIndex < 0)
+            if (endIndex > inputLine.Count - 1)
                 endIndex = inputLine.Count - 1;
-            
+            if (startIndex == endIndex)
+                return inputLine;
+
             for (int i = startIndex; i <= endIndex; i++)
                 newItem += inputLine[i];
 
-            return inputLine.Take(startIndex)
+            inputLine = inputLine.Take(startIndex)
                 .Concat(new[] { newItem })
                 .Concat(inputLine.Skip(endIndex + 1))
                 .ToList();
+
+            return inputLine;
         }
     }
 }
