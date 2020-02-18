@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\ShoppingSpree\bin\Debug\netcoreapp3.0\ShoppingSpree.exe
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\ShoppingSpree\bin\Debug\netcoreapp3.0\ShoppingSpree.deps.json
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\ShoppingSpree\bin\Debug\netcoreapp3.0\ShoppingSpree.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\ShoppingSpree\bin\Debug\netcoreapp3.0\ShoppingSpree.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\ShoppingSpree\bin\Debug\netcoreapp3.0\ShoppingSpree.dll
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\ShoppingSpree\bin\Debug\netcoreapp3.0\ShoppingSpree.pdb
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\ShoppingSpree\obj\Debug\netcoreapp3.0\ShoppingSpree.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\ShoppingSpree\obj\Debug\netcoreapp3.0\ShoppingSpree.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\ShoppingSpree\obj\Debug\netcoreapp3.0\ShoppingSpree.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\ShoppingSpree\obj\Debug\netcoreapp3.0\ShoppingSpree.dll
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\ShoppingSpree\obj\Debug\netcoreapp3.0\ShoppingSpree.pdb

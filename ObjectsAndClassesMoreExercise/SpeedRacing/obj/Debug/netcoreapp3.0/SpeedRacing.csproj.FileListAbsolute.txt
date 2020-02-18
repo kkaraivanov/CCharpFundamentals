@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\SpeedRacing\bin\Debug\netcoreapp3.0\SpeedRacing.exe
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\SpeedRacing\bin\Debug\netcoreapp3.0\SpeedRacing.deps.json
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\SpeedRacing\bin\Debug\netcoreapp3.0\SpeedRacing.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\SpeedRacing\bin\Debug\netcoreapp3.0\SpeedRacing.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\SpeedRacing\bin\Debug\netcoreapp3.0\SpeedRacing.dll
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\SpeedRacing\bin\Debug\netcoreapp3.0\SpeedRacing.pdb
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\SpeedRacing\obj\Debug\netcoreapp3.0\SpeedRacing.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\SpeedRacing\obj\Debug\netcoreapp3.0\SpeedRacing.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\SpeedRacing\obj\Debug\netcoreapp3.0\SpeedRacing.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\SpeedRacing\obj\Debug\netcoreapp3.0\SpeedRacing.dll
+D:\Learning\C#FundamentalsPractics\ObjectsAndClassesMoreExercise\SpeedRacing\obj\Debug\netcoreapp3.0\SpeedRacing.pdb
