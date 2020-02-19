@@ -18,8 +18,6 @@ namespace TeamworkProjects
             List<Team> teams = new List<Team>();
             for (int i = 0; i < num; i++)
             {
-                Team newTeam = new Team();
-
                 string[] line = Console.ReadLine().Split("-", StringSplitOptions.RemoveEmptyEntries).ToArray();
                 string creator = line[0];
                 string team = line[1];
@@ -27,7 +25,7 @@ namespace TeamworkProjects
                 {
                     if (!teams.Select(team => team.Creator).Contains(creator))
                     {
-                        newTeam.Add(creator, team);
+                        var newTeam = new Team(creator, team);
                         teams.Add(newTeam);
                         Console.WriteLine($"Team {team} has been created by {creator}!");
                     }
@@ -44,7 +42,6 @@ namespace TeamworkProjects
 
         private static List<Team> CreateMembers(List<Team> teams)
         {
-            Team newMember = new Team();
             string line = string.Empty;
             while ((line = Console.ReadLine()) != "end of assignment")
             {
@@ -95,13 +92,13 @@ namespace TeamworkProjects
     }
     class Team
     {
-        public string TeamName { get; set; }
-        public string Creator { get; set; }
-        public List<string> Member { get; set; } = new List<string>();
-        public void Add(string user, string team)
+        public Team(string user, string team)
         {
             this.TeamName = team;
             this.Creator = user;
         }
+        public string TeamName { get; set; }
+        public string Creator { get; set; }
+        public List<string> Member { get; set; } = new List<string>();
     }
 }

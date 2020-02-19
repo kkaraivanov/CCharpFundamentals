@@ -23,10 +23,10 @@ namespace OrderByAge
 
             while ((line = Console.ReadLine()) != "End")
             {
-                People people = new People();
-                people.ID = long.Parse(line.Split()[1]);
-                people.Nmae = line.Split()[0];
-                people.Age = int.Parse(line.Split()[2]);
+                var id = long.Parse(line.Split()[1]);
+                var name = line.Split()[0];
+                var age = int.Parse(line.Split()[2]);
+                var people = new People(id, name, age);
                 peoples.Add(people);
             }
             
@@ -36,6 +36,12 @@ namespace OrderByAge
 
     class People
     {
+        public People(long id, string name, int age)
+        {
+            this.ID = id;
+            this.Nmae = name;
+            this.Age = age;
+        }
         public long ID { get; set; }
         public string Nmae { get; set; }
         public int Age { get; set; }

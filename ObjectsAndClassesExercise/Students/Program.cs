@@ -13,9 +13,8 @@ namespace Students
 
             for (int i = 0; i < countStudents; i++)
             {
-                Student newStudent = new Student();
                 string[] student = Console.ReadLine().Split().ToArray();
-                newStudent.Add(student[0], student[1], double.Parse(student[2]));
+                var newStudent = new Student(student[0], student[1], double.Parse(student[2]));
                 students.Add(newStudent);
             }
             students = students.OrderByDescending(student => student.Grade).ToList();
@@ -27,16 +26,16 @@ namespace Students
     }
     class Student
     {
-        public string Name { get; private set; }
-        public string LastName { get; private set; }
-        public double Grade { get; private set; }
-
-        public void Add(string name, string lastName, double grade)
+        public Student(string name, string lastName, double grade)
         {
             this.Name = name;
             this.LastName = lastName;
             this.Grade = grade;
         }
+        public string Name { get; private set; }
+        public string LastName { get; private set; }
+        public double Grade { get; private set; }
+
         public override string ToString()
         {
             return $"{Name} {LastName}: {Grade:f2}";

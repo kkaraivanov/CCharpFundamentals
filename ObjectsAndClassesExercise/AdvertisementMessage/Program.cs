@@ -6,14 +6,13 @@ namespace AdvertisementMessage
     {
         static void Main(string[] args)
         {
-            Message message = new Message();
             int count = int.Parse(Console.ReadLine());
-            message.DisplayMessage(count);
+            var message= new Message(count);
         }
     }
     class Message
     {
-        public void DisplayMessage(int count)
+        public Message(int count)
         {
             for (int i = 0; i < count; i++)
             {

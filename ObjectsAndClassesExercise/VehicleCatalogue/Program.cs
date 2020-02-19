@@ -27,7 +27,7 @@ namespace CatalogVehicle
                 Console.WriteLine(catalogVehicles.GetModelInformation(lineOfCommands));
             }
 
-            catalogVehicles.DisplayAverage();
+            Console.WriteLine(catalogVehicles.DisplayAverage());
         }
     }
     class Catalog
@@ -55,17 +55,21 @@ namespace CatalogVehicle
                     break;
             }
         }
-        public void DisplayAverage()
+        public string DisplayAverage()
         {
+            var sb = new StringBuilder();
+
             if (NewCar.Count > 0)
-                Console.WriteLine($"Cars have average horsepower of: {(NewCar.Sum(nc => nc.Horsepower) / (NewCar.Count * 1.0)):f2}.");
+                sb.AppendLine($"Cars have average horsepower of: {(NewCar.Sum(nc => nc.Horsepower) / (NewCar.Count * 1.0)):f2}.");
             else
-                Console.WriteLine($"Cars have average horsepower of: {0:f2}.");
+                sb.AppendLine($"Cars have average horsepower of: {0:f2}.");
 
             if (NewTruck.Count > 0)
-                Console.WriteLine($"Trucks have average horsepower of: {(NewTruck.Sum(nt => nt.Horsepower) / (NewTruck.Count * 1.0)):f2}.");
+                sb.Append($"Trucks have average horsepower of: {(NewTruck.Sum(nt => nt.Horsepower) / (NewTruck.Count * 1.0)):f2}.");
             else
-                Console.WriteLine($"Trucks have average horsepower of: {0:f2}.");
+                sb.Append($"Trucks have average horsepower of: {0:f2}.");
+            
+            return sb.ToString();
         }
         public string GetModelInformation(string model)
         {
