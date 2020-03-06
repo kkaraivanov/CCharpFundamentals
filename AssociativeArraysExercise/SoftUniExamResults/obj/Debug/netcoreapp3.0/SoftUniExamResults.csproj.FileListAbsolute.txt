@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniExamResults\bin\Debug\netcoreapp3.0\SoftUniExamResults.exe
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniExamResults\bin\Debug\netcoreapp3.0\SoftUniExamResults.deps.json
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniExamResults\bin\Debug\netcoreapp3.0\SoftUniExamResults.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniExamResults\bin\Debug\netcoreapp3.0\SoftUniExamResults.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniExamResults\bin\Debug\netcoreapp3.0\SoftUniExamResults.dll
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniExamResults\bin\Debug\netcoreapp3.0\SoftUniExamResults.pdb
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniExamResults\obj\Debug\netcoreapp3.0\SoftUniExamResults.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniExamResults\obj\Debug\netcoreapp3.0\SoftUniExamResults.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniExamResults\obj\Debug\netcoreapp3.0\SoftUniExamResults.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniExamResults\obj\Debug\netcoreapp3.0\SoftUniExamResults.dll
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniExamResults\obj\Debug\netcoreapp3.0\SoftUniExamResults.pdb

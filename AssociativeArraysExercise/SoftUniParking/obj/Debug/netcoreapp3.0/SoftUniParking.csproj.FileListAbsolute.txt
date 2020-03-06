@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniParking\bin\Debug\netcoreapp3.0\SoftUniParking.exe
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniParking\bin\Debug\netcoreapp3.0\SoftUniParking.deps.json
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniParking\bin\Debug\netcoreapp3.0\SoftUniParking.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniParking\bin\Debug\netcoreapp3.0\SoftUniParking.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniParking\bin\Debug\netcoreapp3.0\SoftUniParking.dll
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniParking\bin\Debug\netcoreapp3.0\SoftUniParking.pdb
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniParking\obj\Debug\netcoreapp3.0\SoftUniParking.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniParking\obj\Debug\netcoreapp3.0\SoftUniParking.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniParking\obj\Debug\netcoreapp3.0\SoftUniParking.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniParking\obj\Debug\netcoreapp3.0\SoftUniParking.dll
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\SoftUniParking\obj\Debug\netcoreapp3.0\SoftUniParking.pdb

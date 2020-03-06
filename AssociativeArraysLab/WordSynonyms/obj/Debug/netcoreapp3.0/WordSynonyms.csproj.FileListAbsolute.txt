@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\WordSynonyms\bin\Debug\netcoreapp3.0\WordSynonyms.exe
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\WordSynonyms\bin\Debug\netcoreapp3.0\WordSynonyms.deps.json
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\WordSynonyms\bin\Debug\netcoreapp3.0\WordSynonyms.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\WordSynonyms\bin\Debug\netcoreapp3.0\WordSynonyms.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\WordSynonyms\bin\Debug\netcoreapp3.0\WordSynonyms.dll
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\WordSynonyms\bin\Debug\netcoreapp3.0\WordSynonyms.pdb
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\WordSynonyms\obj\Debug\netcoreapp3.0\WordSynonyms.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\WordSynonyms\obj\Debug\netcoreapp3.0\WordSynonyms.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\WordSynonyms\obj\Debug\netcoreapp3.0\WordSynonyms.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\WordSynonyms\obj\Debug\netcoreapp3.0\WordSynonyms.dll
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\WordSynonyms\obj\Debug\netcoreapp3.0\WordSynonyms.pdb

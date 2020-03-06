@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\OddOccurrences\bin\Debug\netcoreapp3.0\OddOccurrences.exe
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\OddOccurrences\bin\Debug\netcoreapp3.0\OddOccurrences.deps.json
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\OddOccurrences\bin\Debug\netcoreapp3.0\OddOccurrences.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\OddOccurrences\bin\Debug\netcoreapp3.0\OddOccurrences.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\OddOccurrences\bin\Debug\netcoreapp3.0\OddOccurrences.dll
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\OddOccurrences\bin\Debug\netcoreapp3.0\OddOccurrences.pdb
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\OddOccurrences\obj\Debug\netcoreapp3.0\OddOccurrences.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\OddOccurrences\obj\Debug\netcoreapp3.0\OddOccurrences.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\OddOccurrences\obj\Debug\netcoreapp3.0\OddOccurrences.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\OddOccurrences\obj\Debug\netcoreapp3.0\OddOccurrences.dll
+D:\Learning\C#FundamentalsPractics\AssociativeArraysLab\OddOccurrences\obj\Debug\netcoreapp3.0\OddOccurrences.pdb

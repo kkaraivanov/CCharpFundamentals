@@ -1,0 +1,11 @@
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\ForceBook\bin\Debug\netcoreapp3.0\ForceBook.exe
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\ForceBook\bin\Debug\netcoreapp3.0\ForceBook.deps.json
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\ForceBook\bin\Debug\netcoreapp3.0\ForceBook.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\ForceBook\bin\Debug\netcoreapp3.0\ForceBook.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\ForceBook\bin\Debug\netcoreapp3.0\ForceBook.dll
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\ForceBook\bin\Debug\netcoreapp3.0\ForceBook.pdb
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\ForceBook\obj\Debug\netcoreapp3.0\ForceBook.csprojAssemblyReference.cache
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\ForceBook\obj\Debug\netcoreapp3.0\ForceBook.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\ForceBook\obj\Debug\netcoreapp3.0\ForceBook.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\ForceBook\obj\Debug\netcoreapp3.0\ForceBook.dll
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\ForceBook\obj\Debug\netcoreapp3.0\ForceBook.pdb

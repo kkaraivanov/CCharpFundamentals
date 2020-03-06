@@ -1,0 +1,10 @@
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\StudentAcademy\bin\Debug\netcoreapp3.0\StudentAcademy.exe
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\StudentAcademy\bin\Debug\netcoreapp3.0\StudentAcademy.deps.json
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\StudentAcademy\bin\Debug\netcoreapp3.0\StudentAcademy.runtimeconfig.json
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\StudentAcademy\bin\Debug\netcoreapp3.0\StudentAcademy.runtimeconfig.dev.json
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\StudentAcademy\bin\Debug\netcoreapp3.0\StudentAcademy.dll
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\StudentAcademy\bin\Debug\netcoreapp3.0\StudentAcademy.pdb
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\StudentAcademy\obj\Debug\netcoreapp3.0\StudentAcademy.AssemblyInfoInputs.cache
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\StudentAcademy\obj\Debug\netcoreapp3.0\StudentAcademy.AssemblyInfo.cs
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\StudentAcademy\obj\Debug\netcoreapp3.0\StudentAcademy.dll
+D:\Learning\C#FundamentalsPractics\AssociativeArraysExercise\StudentAcademy\obj\Debug\netcoreapp3.0\StudentAcademy.pdb
