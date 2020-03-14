@@ -29,7 +29,21 @@
                 if (!matchLeft.Success || !matchRight.Success)
                 {
                     Console.WriteLine($"ticket \"{ ticket}\" - no match");
+                    continue;
                 }
+
+                var leftPart = matchLeft.Value.Substring(0, length);
+                var rightPart = matchRight.Value.Substring(0, length);
+
+                if (leftPart.Equals(rightPart))
+                {
+                    if(leftPart.Length == 10)
+                        Console.WriteLine($"ticket \"{ ticket}\" - {length}{leftPart.Substring(0, 1)} Jackpot!");
+                    else
+                        Console.WriteLine($"ticket \"{ ticket}\" - {length}{leftPart.Substring(0, 1)}");
+                }
+                else
+                    Console.WriteLine($"ticket \"{ ticket}\" - no match");
             }
         }
     }
