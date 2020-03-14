@@ -11,42 +11,25 @@
         {
             var input = Console.ReadLine()
                 .Split(new char[] { ' ', ',' }, StringSplitOptions.RemoveEmptyEntries);
-            var colectionTikets = new Dictionary<string, string>();
-            string simpleWin = @"[\@]{6,9}|[\#]{6,9}|[\$]{6,9}|[\^]{6,9}";
-            string jacpot = @"[\@]{10}|[\#]{10}|[\$]{10}|[\^]{10}";
+            string pattern = @"[\@]{6,}|[\#]{6,}|[\$]{6,}|[\^]{6,}";
+            var match = new Regex(pattern);
 
-            foreach (var tiket in input)
+            foreach (var ticket in input)
             {
-                if (tiket.Length != 20)
+                if (ticket.Length != 20)
                 {
-                    colectionTikets.Add(tiket, "invalid ticket");
+                    Console.WriteLine("invalid ticket");
                     continue;
                 }
 
-                string partLeft = tiket.Substring(0, 10);
-                string partRight = tiket.Substring(10, 10);
-                Match simpleWinLeft = Regex.Match(partLeft, simpleWin);
-                Match simpleWinRight = Regex.Match(partRight, simpleWin);
-                Match jacpotLeft = Regex.Match(partLeft, jacpot);
-                Match jacpotRight = Regex.Match(partLeft, jacpot);
+                var matchLeft = match.Match(ticket.Substring(0, 10));
+                var matchRight = match.Match(ticket.Substring(10));
+                var length = Math.Min(matchLeft.Length, matchRight.Length);
 
-                if (jacpotLeft.Success && jacpotRight.Success)
-                    colectionTikets.Add(tiket, $"10{jacpotLeft.ToString()[0]} Jackpot!");
-                else if (simpleWinLeft.Success && simpleWinRight.Success && simpleWinLeft.ToString()[0].Equals(simpleWinRight.ToString()[0]))
+                if (!matchLeft.Success || !matchRight.Success)
                 {
-                    var count = Math.Min(simpleWinLeft.Length, simpleWinRight.Length);
-                    colectionTikets.Add(tiket, $"{count}{simpleWinLeft.ToString()[0]}");
+                    Console.WriteLine($"ticket \"{ ticket}\" - no match");
                 }
-                else
-                    colectionTikets.Add(tiket, "no match");
-            }
-
-            foreach (KeyValuePair<string,string> tiket in colectionTikets)
-            {
-                if (tiket.Value.Equals("invalid ticket"))
-                    Console.WriteLine("invalid ticket");
-                else
-                    Console.WriteLine($"ticket \"{tiket.Key}\" - {tiket.Value}");
             }
         }
     }
